@@ -1,0 +1,10 @@
+ISBN::"^[0-9]+$"
+Title::"^[A-Za-z]+([[:space:]]{0,1}[a-z]*)*$"
+Author::"^[A-Za-z]+([[:space:]]{0,1}[a-z]*)*$"
+Number_of_pages::"^[0-9]+$"
+Cover_type::"^soft_cover$|^hard_cover$"
+edition::"^[0-9]+$"
+Publisher::"^[A-Za-z]+([[:space:]]{0,1}[a-z0-9]*)*"
+Publishing_year::"^[0-9][0-9][0-9][0-9]$"
+
+
